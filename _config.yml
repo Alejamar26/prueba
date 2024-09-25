@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               "DHPrueba"
+title:               "prueba"
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 ''
-baseurl:             '/DHPrueba'
+baseurl:             '/prueba'
 
 # About/contact
 author:
