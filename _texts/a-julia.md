@@ -6,11 +6,11 @@ editor: Alejandra Martinez
 source: Bandcamp 
 ---
 
-- Tengo pregunta por vez primera
-- Tengo una pregunta por vez primera
+ Tengo pregunta por vez primera
+ Tengo una pregunta por vez primera
 
-- Es una pregunta
-- Pregunta verdadera
+ Es una pregunta
+ Pregunta verdadera
 - Es una pregunta
 - Pregunta verdadera
 
@@ -66,4 +66,4 @@ source: Bandcamp
 
 Y es que yo te dejé de amar
 A mid sdfsfs
-![image](https://github.com/user-attachments/assets/19047248-4d74-47c0-8856-83dca38fb757)
+
